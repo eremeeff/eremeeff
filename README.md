@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eremeeff
-- 👀 I’m interested in developing web apps using Python, Go, Angular
+- 👀 I’m interested in developing web apps using Python, Angular
 - 💞️ I’m looking to collaborate on task management software
 
 <!---
